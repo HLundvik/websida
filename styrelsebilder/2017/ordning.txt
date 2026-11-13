@@ -1,0 +1,30 @@
+# Ordningen på styrelsen 2017. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Emelie.Rydeblad.jpg
+Vice Ordförande & Toast/Simon.Martinussen.jpg
+Kassör/Kristian.Andersson.jpg
+Vice Kassör/Martin.Berglund.jpg
+Arbetsmarknad/Kristin.Malmqvist.jpg
+Vice Arbetsmarknad/Christian.Barath.jpg
+Vice Marknadsföring/Oliwer.Fontaeus.jpg
+PR-utskottet/Josefine.Berg.jpg
+Vice PR-utskottet/Annie.Boberg.jpg
+Utbildning/Petra.Jönsson.jpg
+Vice Utbildning/Frida.Astner.jpg
+Näringsliv/Niklas.Lenke.jpg
+Vice Näringsliv/Jessica.Eriksson.jpg
+Introduktion/Mikael.Sundberg.jpg
+Vice Introduktion/Mikael.Ivarsson.jpg
+Ledamot/Fanny.Eriksson.jpg
+Ledamot/Andreas.Jönsson.jpg
+Sexmästare/Jan.Dalheimer.jpg
+Vice Sexmästarinna/Agnes.Selin.jpg
+Lokalansvarig/Arvid.Bäckström.jpg
+Inköpsansvarig/Matilda.Ohlsson.jpg
+Ledamot med ljud- och ljusansvar/Christian.Martinsson.jpg
+Ledamot med ljud- och ljusansvar/Max.Rune.jpg
+Ledamot/Jimmy.Nilsson.jpg
+Ledamot/Sofie.Thorsager.jpg
+Ledamot/Pelle.Israelsson.jpg
+Ledamot/Adrián.Gomez.Rodriguez.jpg

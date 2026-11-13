@@ -1,0 +1,18 @@
+# Ordningen på styrelsen 2019. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Veronica.Samuelsson.jpg
+Vice Ordförande/Felicia.Lindqvist.jpg
+Kassör/Jan.Dalheimer.jpg
+Marknadsföring/Sara.Jergander.jpg
+Utbildning/Angelica.Bergström.jpg
+Näringsliv/Emelie.Carlström.jpg
+Introduktion/Mathilda.Ohlsson.jpg
+Vice Introduktion/Martin.Edås.jpg
+Ledamot/Sandra.Brodin.jpg
+Ledamot/Sofia.Hallefält.jpg
+Ledamot/Kasper.Moberg.jpg
+Sexmästare/Oscar.Carlsson.jpg
+Vice Sexmästare/Martin.Edås.jpg
+Lokalansvarig/Rasmus.Happe.Sollander.jpg
+Inköpsansvarig/Felix.Bergsman.jpg

@@ -1,0 +1,22 @@
+# Ordningen på styrelsen 2018. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Frida.Astner.jpg
+Vice Ordförande/Petra.Jönsson.jpg
+Kassör/Nils.Kalm.jpg
+Arbetsmarknad/Felicia.Walldén.Cerna.jpg
+Vice Arbetsmarknad/Nikola.Krstic.jpg
+Marknadsföring/Max.Rune.jpg
+PR-utskottet/Josefine.Holm.jpg
+Utbildning/Veronica.Samuelsson.jpg
+Näringsliv/Annie.Boberg.jpg
+Introduktion/Kristian.Andersson.jpg
+Vice Introduktion/Arvid.Bäckström.jpg
+Ledamot/Ida.Seeger.jpg
+Ledamot/Felicia.Lindqvist.jpg
+Ledamot/Sara.Jergander.jpg
+Sexmästare/Jan.Dalheimer.jpg
+Vice Sexmästarinna/Mathilda.Ohlsson.jpg
+Vice Lokalansvarig/Martin.Edås.jpg
+Toast/Erica.Karlberg.jpg
+Ledamot/Sofie.Thorsager.jpg

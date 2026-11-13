@@ -1,0 +1,23 @@
+# Ordningen på styrelsen 2020. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Oscar.Carlsson.jpg
+Vice Ordförande/Karin.Eriksson.jpg
+Kassör/Julia.Brodén.jpg
+Näringsliv/Emelie.Carlström.jpg
+Vice Näringsliv, Futurum/Moa.Kolvereid.jpg
+Vice Näringsliv, avtal/Sofia.Hallefält.jpg
+Marknadsföring/Felix.Bergsman.jpg
+Vice Marknadsföring/Karin.Eriksson.jpg
+Utbildning/Felicia.Söder.jpg
+Introduktion/Jonas.Rinnbäck.jpg
+Vice Introduktion/Kasper.Moberg.jpg
+Ledamot/Felicia.Broström.jpg
+Ledamot/Jonathan.Gyllerström.jpg
+Ledamot/Roger.Larsson.jpg
+Sexmästare/Jonas.Rinnbäck.jpg
+Vice Sexmästare/Rasmus.Happe.Sollander.jpg
+Toast/Mia.Johansson.jpg
+Lokalansvarig/Olof.Nilsson.jpg
+Vice Lokalansvarig/Anton.Stenås.jpg
+Inköpsansvarig/Gustav.Brodin.jpg

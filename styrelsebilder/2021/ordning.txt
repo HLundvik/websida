@@ -1,0 +1,9 @@
+# Ordningen på styrelsen 2021. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Felix.Bergsman.jpg
+Kassör, vice introduktion/Julia.Brodén.jpg
+Introduktion/Moa.Kolvereid.jpg
+Sexmästarinna/Madelaine.Nordén.jpg
+Lokalansvarig/Algot.Brolin.jpg
+Inköpsansvarig, vice lokalansvarig/Joel.Öman.Adsjö.jpg
