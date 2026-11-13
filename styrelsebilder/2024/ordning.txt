@@ -1,0 +1,22 @@
+# Ordningen på styrelsen 2024. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Lukas.Ingeltorp.jpg
+Vice Ordförande/Matilda.Karlsson.jpg
+Kassör/Filip.Blomsterberg.jpg
+Vice Ordförande Näringsliv (Spons)/Fredrik.Mickelsson.jpg
+Vice Ordförande Näringsliv (Futurum)/Marcus.Persson.jpg
+Ordförande Intro/Paulina.Engvall.jpg
+Vice Ordförande Intro/Albin.Söderlund.jpg
+Ordförande Marknadsföring/Izzy.Cahling.jpg
+Vice Ordförande Marknadsföring/Charlie.Larsson.jpg
+Ordförande Utbildning/Kalle.Aalto.jpg
+Vice Ordförande Utbildning/David.Johansson.jpg
+Ordförande Sexmästeriet/Elias.jpg
+Vice Ordförande Sexmästeriet och Toast/Elisa.Kvarnström.jpg
+Ordförande Lokal/William.Pettersson.jpg
+Vice Ordförande Lokal/Anton.Köijer.jpg
+Inköpsansvarig/Texas.Tannemark.jpg
+Ledamot/Oliver.Lans.jpg
+Ledamot/Henrik.Lugnet.jpg
+Ledamot/Adam.Johansson.jpg

@@ -1,0 +1,17 @@
+# Ordningen på styrelsen 2023. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Jakob.Salomonsson.jpg
+Vice Ordförande/Lukas.Ingeltorp.jpg
+Kassör/Daniel.Vidmark.jpg
+Ordförande Intro/Maximillian.Tigerstrand.jpg
+Vice Ordförande Intro/Axel.Asp.jpg
+Ordförande Marknadsföring/Paulina.Engvall.jpg
+Vice Ordförande Marknadsföring/Izzy.Cahling.jpg
+Toast och Ordförande Utbildning/Kalle.Aalto.jpg
+Ordförande Sexmästeriet/Dennis.Wilén.jpg
+Vice Ordförande Sexmästeriet/Albin.Söderlund.jpg
+Ordförande Lokal/William.Pettersson.jpg
+Vice Ordförande Lokal/Matilda.Karlsson.jpg
+Inköps ansvarig och Ordförande Näringsliv/Anton.Köijer.jpg
+Ledamot/Charlie.Larsson.jpg

@@ -1,0 +1,22 @@
+# Ordningen på styrelsen 2022. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Joel.Öman.Adsjö.jpg
+Vice Ordförande/Jakob.Salomonsson.jpg
+Kassör/Karin.Reuithe.jpg
+Ordförande Intro/Madelaine.Nordén.jpg
+Vice Ordförande Intro/Algot.Brolin.jpg
+Ordförande Marknadsföring/Nicco.Kronmann.jpg
+Vice Ordförande Marknadsföring/Andreas.Rönnholm.jpg
+Toast och Ordförande Näringsliv/Sebastian.Hedin.jpg
+Ordförande Sexmästeriet/Max.Lindberg.jpg
+Vice Ordförande Sexmästeriet/Thomas.Heurlin.jpg
+Ordförande Lokal/Axel.Asp.jpg
+Vice Ordförande Lokal/Axel.Dahlberg.jpg
+Inköps Ansvarig/Linus.Bentzer.jpg
+Ordförande Utbildning/Lisa.Norgren.jpg
+Vice Näringsliv/David.Sundstedt.jpg
+Vice Näringsliv/Viking.Bergström.jpg
+Ledamot/Kalle.Aalto.jpg
+Ledamot/Pedro.Malave.jpg
+Ledamot/Pehr.Pecher.Torgeir.jpg
