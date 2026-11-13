@@ -1,0 +1,26 @@
+# Ordningen på styrelsen 2007. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Anders.Sörell.jpg
+Vice Ordförande/Petter.Winther.jpg
+Kassör/Erik.Israelsson.jpg
+Alumni ansvarig/Tommie.Andersson.jpg
+Näringsliv/Marcus.Andersson.jpg
+Vice Näringsliv/Henrik.Kokenius.jpg
+Vice Näringsliv/Johan.Karlsson.jpg
+PR-Info/Tommie.Andersson.jpg
+Vice PR-Info/Caroline.Waldenström.jpg
+Vice PR-Info/Kerim.Genel.jpg
+Sexmästare/Björn.Pramlid.jpg
+Vice Sexmästare/Helena.Winberg.jpg
+Dataansvarig/Martin.(Wombat/Plupp).Andersson.jpg
+Kassör (Sexmästeriet)/Matilda.Östberg.jpg
+Baransvarig/Sussie.Holmström.jpg
+Ölansvarig/Joakim.Högdahl.jpg
+Inköpsansvarig/Hannah.Andersson.jpg
+Informationsansvarig/Camilla.Persson.jpg
+Fotoansvarig/Tobias.Arvidsson.jpg
+Lokalansvarig/Niklas.Persson.jpg
+Toast/Sanna.(Peps).Henning.jpg
+Ålderman/Micaela.Tiestö.jpg
+Ålderman/Andrej.Blom.jpg

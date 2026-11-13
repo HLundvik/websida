@@ -1,0 +1,23 @@
+# Ordningen på styrelsen 2016. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Jesper.Ljung.Holm.jpg
+Kassör/Albin.Borgvall.jpg
+Vice Kassör/Annie.Boberg.jpg
+Arbetsmarknad/Joel.Liene.jpg
+Vice Arbetsmarknad/Elin.Säterdahl.jpg
+Marknadsföring/Jan.Dalheimer.jpg
+Vice Marknadsföring/Mikael.Ivarsson.jpg
+PR-Info/Susanna.Nettelbladt.jpg
+Vice PR-Info/Robin.Rodestrand.jpg
+Vice Utbildning/Adeline.Ekegårdh.jpg
+Introduktion/Simon.Dempwolf.jpg
+Vice Introduktion/Frida.Ansin.jpg
+Sexmästerinna/Matilda.Ekström.jpg
+Vice Sexmästerinna/Josefine.Berg.jpg
+Lokalansvarig/Johan.Käck.jpg
+Vice Lokalansvarig/Mikael.Sundberg.jpg
+Fotografansvarig/Magnus.Jonsson.jpg
+Inköpsansvarig/Simon.Gramer.jpg
+Sittningskommittén/Klara.Olsson.jpg
+Toast/Simon.Martinussen.jpg

@@ -1,0 +1,8 @@
+# Ordningen på styrelsen 2011. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Kassör/Johan.Philipsen.jpg
+Sexmästerinna/Julia.Bäckström.jpg
+PR-Info/David.Hartung.jpg
+Vice PR-Info/Daniel.Hamrén.jpg
+Vice PR-Info/Ruben.Carlsson.jpg

@@ -1,0 +1,18 @@
+# Ordningen på styrelsen 2014. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Susanne.Karlsson.Falk.jpg
+Vice Ordförande/Victor.Andersson.jpg
+Kassör/Patrik.Farahani.jpg
+Näringsliv/Olivia.Almquist.jpg
+PR-Info/Robin.Håkansson.jpg
+Vice PR-Info/Particia.Johansson.jpg
+Ordförande Utbildning/Robert.Johansson.jpg
+Vice Utbildning/Ida.Lindgren.jpg
+Introduktion/Simon.Granewåg.jpg
+Vice Introduktion/Christoffer.Lövgren.jpg
+Festmästerinna/Julia.Pommer.jpg
+Vice Festmästare/Tobias.Rasmussen.jpg
+Toastmaster/John.Ericsson.jpg
+Lokalansvarig/Jonas.Högberg.jpg
+Inköp/Maria.Helzenius.jpg

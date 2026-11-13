@@ -1,0 +1,14 @@
+# Ordningen på styrelsen 2010. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Otto.Tuvesson.jpg
+Vice Ordförande/Rut.Engström.jpg
+Kassör/Emil.Abrahamsson.jpg
+Näringsliv/Gustav.Elfström.jpg
+Vice Näringsliv/Hanna.Nordahl.jpg
+Utbildning/Johan.Modig.Sundberg.jpg
+Vice Utbildning/Sandra.Åberg.jpg
+Medlemsansvarig/Jamie.Alvarado.jpg
+PR-Info/Patrik.Johansson.jpg
+Vice PR-Info/Carlos.Lopez.jpg
+Vice PR-Info/Erik.Nilsson.jpg

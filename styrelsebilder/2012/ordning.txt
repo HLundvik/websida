@@ -1,0 +1,18 @@
+# Ordningen på styrelsen 2012. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Julia.Bäckström.jpg
+Vice Ordförande/Rebecka.Östvang.jpg
+Kassör/Tim.Zetterberg.jpg
+Futurum/Tom.Gottfridsson.jpg
+IT-ansvarig/Rickard.Hedlund.jpg
+Medlemsansvarig/Fredrik.Lindqvist.jpg
+Vice Medlemsansvarig/Ruben.Carlsson.jpg
+Vice Näringsliv/Agnes.Selin.jpg
+PR-Info/Fredrik.Thorell.jpg
+Vice PR-Info/Joel.Öhrling.jpg
+Vice PR-Info/David.Hartung.jpg
+Utbildning/Nicklas.Lindström.jpg
+Vice Utbildning/Jennie.Eriksson.jpg
+Sexmästerinna/Julia.Melin.jpg
+Vice Sexmästerinna/Simon.Bergman.jpg

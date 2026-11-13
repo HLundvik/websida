@@ -1,0 +1,18 @@
+# Ordningen på styrelsen 2013. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Camilla.Molina.jpg
+Kassör/Simon.Granewåg.jpg
+Vice Kassör/David.Klang.jpg
+Ordförande Arbetsmarknadsutskottet/Kristian.Wigren.jpg
+Ordförande Introduktionsutskottet/Jim.Högberg.jpg
+Vice Ordförande Introduktionsutskottet/Florian.Burgmann.jpg
+Ordförande Marknadsföring/Thomas.Björkroth.jpg
+Vice Ordförande Marknadsföring/Rickard.Hedlund.jpg
+Ordförande Näringsliv/Oskar.Wilhelmsson.jpg
+Ordförande PR-Info/Jimmy.Persson.jpg
+Vice Ordförande PR-Info/Robert.Johansson.jpg
+Ordförande Utbildningsutskottet/Adam.Lindgren.jpg
+Ordförande Festutskottet/Amanda.Stenberg.jpg
+Vice Ordförande Festutskottet/Ida.Lindgren.jpg
+Lokalansvarig/Christoffer.Lövgren.jpg

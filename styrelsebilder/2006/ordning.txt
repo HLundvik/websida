@@ -1,0 +1,25 @@
+# Ordningen på styrelsen 2006. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Björn.Johansson.jpg
+Kassör/Henrik.Kekonius.jpg
+Näringsliv/Mark.Ahlgren.jpg
+Vice Näringsliv/Stefan.Blomqvist.jpg
+Utbildning/Jamie.Alvarado.jpg
+Alumni ansvarig/Erik.Israelsson.jpg
+PR-Info/Tommie.Andersson.jpg
+Vice PR-Info/Caroline.Waldenström.jpg
+Vice PR-Info/Kerim.Genel.jpg
+Sexmästare/Peter.Johansson.jpg
+Vice Sexmästare/Anders.Sörell.jpg
+Dataansvarig/Kim.Granström.jpg
+Kassör (Sexmästeriet)/Gustaf.Martinsson.jpg
+Baransvarig/Johan.Karlsson.jpg
+Ölansvarig/Andrej.Blom.jpg
+Inköpsansvarig/Micaela.Tiestö.jpg
+Informationsansvarig/Tomas.Ahnfeldt.jpg
+Fotoansvarig/Hanna.Nyström.jpg
+Lokalansvarig/Marcus.Andersson.jpg
+Toast/Alexandra.Ehnqvist.jpg
+Ålderman/Mikaela.Nilsson.jpg
+Ålderman/Ann-Marie.Nilsson.jpg

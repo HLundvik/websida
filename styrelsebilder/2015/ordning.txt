@@ -1,0 +1,20 @@
+# Ordningen på styrelsen 2015. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Emma.Wiklund.jpg
+Vice Ordförande/Andrea.Gustafsson.jpg
+Kassör/Josephine.Koskell.jpg
+Vice Kassör/Simon.Gramer.jpg
+Utbildning/Sofie.Classon.jpg
+Vice Utbildning/Josefine.Berg.jpg
+Näringsliv/Svante.Dagarsson.jpg
+Marknadsföring/Elin.Westrin.jpg
+Vice Introduktion/Tobias.Rasmussen.jpg
+Arbetsmarknad/Susanna.Nettelbladt.jpg
+Vice Arbetsmarknad/Elin.Jansson.jpg
+PR-Info/Simon.Dempwolf.jpg
+Vice PR-Info/Frida.Ansin.jpg
+Matilda Ekström/Matilda.Ekström.jpg
+Lokalansvarig/Pontus.Gustafsson.jpg
+Inköpsansvarig/Jonas.Baudin.jpg
+Toast/Linus.Ahlström.jpg
