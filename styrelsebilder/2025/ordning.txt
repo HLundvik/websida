@@ -1,0 +1,25 @@
+# Ordningen på styrelsen 2025. En rad per person: Roll/Förnamn.Efternamn.jpg
+# Mappnamnet blir rollen och filnamnet blir namnet (punkter blir mellanslag).
+
+Ordförande/Matilda.Karlsson.jpg
+Vice Ordförande/Charlie.Larsson.jpg
+Kassör/Meja.Gustafsson.jpg
+Ordförande Näringsliv/Oliver.Lans.jpg
+Vice Ordförande Näringsliv (Spons)/Emelie.Sjöberg.jpg
+Vice Ordförande Näringsliv (Futurum)/Henrik.Lugnet.jpg
+Vice Ordförande Näringsliv (Futurum)/David.Krås.jpg
+Ordförande Intro/Kalle.Aalto.jpg
+Vice Ordförande Intro/Marcus.Persson.jpg
+Ordförande Marknadsföring/Emma.Lindgren.jpg
+Vice Ordförande Marknadsföring/Vera.Edin.jpg
+Ordförande Utbildning/Filip.Blomsterberg.jpg
+Vice Ordförande Utbildning/Hani.Alomar.jpg
+Ordförande Sexmästeriet/Elisa.Kvarnström.jpg
+Vice Ordförande Sexmästeriet/Izzy.Cahling.jpg
+Toast/Aron.Axelsson.jpg
+Ordförande Lokal/Texas.Tannemark.jpg
+Vice Ordförande Lokal/Adam.Johansson.jpg
+Inköpsansvarig/Sandra.Larsson.jpg
+Ledamot/Alva.Nyberg.jpg
+Ledamot/Andreas.Lugnet.jpg
+Ledamot/Viktor.Staffan.Johansson.jpg
