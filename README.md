@@ -11,7 +11,10 @@ Ren HTML, CSS och JavaScript – inga byggsteg behövs.
 ## Redigera
 - Text: öppna valfri `.html`-fil och ändra texten.
 - Bilder: lägg nya bilder i `bilder/` och byt filnamnet i HTML-koden.
-- Färger och typsnitt: överst i `style.css`.
+- Meny (sidhuvud): `delar/sidhuvud.html` – ändras på alla sidor samtidigt.
+- Sidfot: `delar/sidfot.html` – ändras på alla sidor samtidigt.
+- Färger, typsnitt och gradientvinklar: överst i `style.css`.
+- Obs: sidhuvud och sidfot laddas av `script.js`, så de syns bara när sidan körs via en webbserver (t.ex. GitHub Pages), inte om du dubbelklickar på en fil lokalt.
 
 ## Styrelsen – lägg till en ny årgång
 Styrelsesidan läser mappen `styrelsebilder/` automatiskt. Strukturen är:
