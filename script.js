@@ -1,5 +1,6 @@
 /* =========================================================
    GEMENSAMT SKRIPT FÖR ALLA SIDOR
+   0. Räkna ut var webbplatsens rotmapp ligger
    1. Hämtar sidhuvud och sidfot från mappen delar/
    2. Markerar sidan man står på i menyn
    3. Mobilmeny och rullgardinsmenyer
@@ -8,14 +9,38 @@
    GitHub Pages men inte om man dubbelklickar på en fil lokalt.
    ========================================================= */
 
+/* ---------- 0. Var ligger rotmappen? ----------
+   script.js ligger alltid i rotmappen, så dess adress avslöjar var den är.
+   Därifrån kan vi rätta alla länkar och bilder i sidhuvud/sidfot så de
+   fungerar även på sidor som ligger i en undermapp (t.ex. skoj/index.html). */
+const SKRIPT = document.currentScript ? document.currentScript.src : "script.js";
+const ROT = new URL(".", SKRIPT, location.href);
+
+/* Peka en relativ adress på rotmappen istället för på sidans egen mapp.
+   Adresser som redan pekar utåt (https, mailto, tel) eller är ankarlänkar (#)
+   lämnas i fred. */
+function motRot(adress) {
+  if (/^(https?:|mailto:|tel:|data:|#|javascript:)/i.test(adress)) return adress;
+  return new URL(adress, ROT).href;
+}
+
 /* ---------- 1. Hämta sidhuvud och sidfot ---------- */
 async function laddaDelar() {
   const platser = document.querySelectorAll("[data-include]");
   await Promise.all(
     [...platser].map(async (el) => {
       try {
-        const svar = await fetch(el.dataset.include);
+        // data-include skrivs alltid relativt till rotmappen, oavsett vilken
+        // mapp sidan ligger i.
+        const svar = await fetch(new URL(el.dataset.include, ROT).href);
         el.innerHTML = await svar.text();
+        // Rätta länkarna och bilderna i den hämtade delen.
+        el.querySelectorAll("[href]").forEach((n) => {
+          n.setAttribute("href", motRot(n.getAttribute("href")));
+        });
+        el.querySelectorAll("[src]").forEach((n) => {
+          n.setAttribute("src", motRot(n.getAttribute("src")));
+        });
       } catch (fel) {
         console.error("Kunde inte ladda", el.dataset.include, fel);
       }
@@ -27,7 +52,10 @@ async function laddaDelar() {
 function markeraAktivSida() {
   const sida = location.pathname.split("/").pop() || "index.html";
   document.querySelectorAll(".menu a").forEach((lank) => {
-    if (lank.getAttribute("href") !== sida) return;
+    // Jämför filnamnet, eftersom länkarna kan vara skrivna med eller utan
+    // undermapp (t.ex. "../historia.html" eller "historia.html").
+    const adress = (lank.getAttribute("href") || "").split("#")[0].split("?")[0];
+    if (adress.split("/").pop() !== sida) return;
     lank.classList.add("active");
     // Ligger länken i en rullgardinsmeny? Markera då även knappen ("Om oss" m.fl.)
     const meny = lank.closest(".dropdown");

@@ -16,6 +16,16 @@ Ren HTML, CSS och JavaScript – inga byggsteg behövs.
 - Färger, typsnitt och gradientvinklar: överst i `style.css`.
 - Obs: sidhuvud och sidfot laddas av `script.js`, så de syns bara när sidan körs via en webbserver (t.ex. GitHub Pages), inte om du dubbelklickar på en fil lokalt.
 
+## Sidor i en undermapp (t.ex. skoj/)
+Sidor kan ligga i en egen mapp, t.ex. `skoj/index.html`. Länken "Skoj" i sidfoten pekar dit.
+Gör så här när du lägger till en ny sida i en undermapp:
+
+1. Skapa mappen och filen, t.ex. `minasidor/index.html`.
+2. Skriv `../` framför allt som pekar på rotmappen: `../style.css`, `../script.js`, `../bilder/...`.
+3. Skriv `data-include="delar/sidhuvud.html"` och `data-include="delar/sidfot.html"` precis som vanligt
+   – `script.js` hittar dem i rotmappen åt dig.
+4. Lägg till en länk i `delar/sidfot.html` eller `delar/sidhuvud.html` om sidan ska synas i menyn.
+
 ## Styrelsen – lägg till en ny årgång
 Styrelsesidan läser mappen `styrelsebilder/` automatiskt. Strukturen är:
 
