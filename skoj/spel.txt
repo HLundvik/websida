@@ -1,4 +1,7 @@
 # Spel på skoj-sidan – en rad per spel.
 # Skriv mappens namn, t.ex. mitt-spel om spelet ligger i skoj/mitt-spel/index.html
 # Rader som börjar med # är kommentarer och ignoreras.
+skendarpac
+beer pong
 exempelspel
+
