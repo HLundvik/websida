@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <!-- ===== EXEMPELSPEL: Gissa talet =====
+         Ett fristående minispel – hela spelet ligger i den här enda filen.
+         Byt gärna ut allt mot ditt eget spel, men behåll gärna
+         länken "Tillbaka till Skoj" längst ner. -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gissa talet – Gefleteknologerna</title>
+    <style>
+      /* Spelets egna stilar – påverkar bara den här sidan */
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        font-family: system-ui, sans-serif;
+        background: linear-gradient(160deg, #0b3d2e, #050505);
+        color: #f2f2f2;
+        text-align: center;
+        padding: 1rem;
+      }
+      h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+      input {
+        font-size: 1.2rem;
+        padding: 0.5rem;
+        width: 6rem;
+        text-align: center;
+        border-radius: 8px;
+        border: none;
+      }
+      button {
+        font-size: 1.2rem;
+        padding: 0.5rem 1.2rem;
+        margin-left: 0.5rem;
+        border: none;
+        border-radius: 8px;
+        background: #2e8b6e;
+        color: #fff;
+        cursor: pointer;
+      }
+      button:hover { background: #3aa584; }
+      #svar { min-height: 1.5em; margin-top: 1rem; }
+      a { color: #7fd4b2; display: inline-block; margin-top: 2rem; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Gissa talet</h1>
+      <p>Jag tänker på ett tal mellan 1 och 100.</p>
+      <input id="gissning" type="number" min="1" max="100" />
+      <button id="knapp">Gissa</button>
+      <p id="svar"></p>
+      <a href="../index.html">← Tillbaka till Skoj</a>
+    </main>
+
+    <script>
+      // Själva spelet: slumpa ett tal och jämför med gissningen
+      let tal = Math.floor(Math.random() * 100) + 1;
+      let forsok = 0;
+      const svar = document.getElementById("svar");
+      const falt = document.getElementById("gissning");
+
+      function gissa() {
+        const g = Number(falt.value);
+        if (!g) return;
+        forsok++;
+        if (g < tal) svar.textContent = "För lågt! Försök igen.";
+        else if (g > tal) svar.textContent = "För högt! Försök igen.";
+        else {
+          svar.textContent = `Rätt! Du klarade det på ${forsok} försök.`;
+          tal = Math.floor(Math.random() * 100) + 1; // nytt tal
+          forsok = 0;
+        }
+        falt.value = "";
+        falt.focus();
+      }
+
+      document.getElementById("knapp").addEventListener("click", gissa);
+      falt.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") gissa();
+      });
+    </script>
+  </body>
+</html>

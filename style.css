@@ -1011,3 +1011,57 @@ main > .section:nth-of-type(4n):not(.band) {
     display: none;
   }
 }
+
+/* ===== Skoj: spelkort =====
+   Rutorna på skoj-sidan. Förstabilden (preview.jpg) beskärs till 16:9.
+   Saknas bilden visas .spel-tom med spelets namn i stället. */
+.spel-rutnat {
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.spel-kort {
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--grad-tile);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  transition: 0.3s;
+}
+.spel-kort:hover {
+  transform: translateY(-4px);
+  border-color: var(--green-light);
+  color: var(--ink);
+  box-shadow: var(--shadow);
+}
+.spel-kort img,
+.spel-tom {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+.spel-tom {
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  font-family: var(--font-head);
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-align: center;
+  background: linear-gradient(150deg, rgba(46, 139, 110, 0.25), rgba(0, 0, 0, 0.35));
+}
+.spel-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.2rem 1.4rem;
+}
+.spel-text h3 {
+  font-size: 1.2rem;
+}
+.spel-text span {
+  color: var(--green-light);
+  font-weight: 700;
+  white-space: nowrap;
+}

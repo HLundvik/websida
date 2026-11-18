@@ -1,48 +1,75 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="sv">
   <head>
+    <!-- ===== SIDANS INSTÄLLNINGAR =====
+         Titeln syns i webbläsarfliken. Beskrivningen syns i Google och när länken delas. -->
     <meta charset="utf-8" />
-    <title>Skändarpac</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Skoj – Gefleteknologerna</title>
+    <meta
+      name="description"
+      content="Skoj – spel och annat roligt med Gefleteknologerna."
+    />
+    <meta property="og:title" content="Skoj – Gefleteknologerna" />
+    <meta
+      property="og:description"
+      content="Skoj – spel och annat roligt med Gefleteknologerna."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
 
-    <style type="text/css">
-      #pacman {
-        height:900px;
-        width:684px;
-      }
-      #content {
-        margin: 0 auto;
-        width: 684px;
-      }
-      #music {
-        width: 100%;
-      }
-    </style>
-</head>
+    <!-- Ikon, typsnitt och stilmall (gemensamma för alla sidor).
+         Den här sidan ligger i mappen skoj/, så ../ betyder "ett steg upp"
+         till rotmappen där bilderna, stilmallen och skriptet finns. -->
+    <link rel="icon" href="../bilder/gtech-logga.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&family=Manrope:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../style.css" />
+  </head>
 
-<body>
-  <div id="content">
-    <div id="pacman"></div>
-    <img id="logo" src="gtech_LOGO_WHITE.png" style="display:none;"/>
-    <audio id="music" controls preload autobuffer src="audio/music.mp3"/>
-  </div>
+  <body>
+    <a class="skip" href="#innehall">Hoppa till innehåll</a>
 
-  <script src="pacman.js"></script>
-  <script src="modernizr-1.5.min.js"></script>
-  <script type="text/javascript" src="http://canvg.github.io/canvg/rgbcolor.js"></script>
-  <script type="text/javascript" src="http://canvg.github.io/canvg/StackBlur.js"></script>
-  <script type="text/javascript" src="http://canvg.github.io/canvg/canvg.js"></script>
+    <!-- ===== SIDHUVUD =====
+         Menyn hämtas från delar/sidhuvud.html – ändra den där, inte här. -->
+    <header class="site-header" data-include="delar/sidhuvud.html"></header>
 
-  <script>
-    var el = document.getElementById("pacman");
+    <!-- ===== SIDANS INNEHÅLL ===== -->
+    <main id="innehall">
+      <!-- ===== SIDRUBRIK: Skoj ===== -->
+      <section class="page-hero">
+        <div class="wrap">
+          <p class="eyebrow">Gefleteknologerna</p>
+          <h1>Skoj</h1>
+          <p class="lead">Spel och annat roligt med sektionen.</p>
+        </div>
+      </section>
 
-    if (Modernizr.canvas && Modernizr.localstorage &&
-        Modernizr.audio && (Modernizr.audio.ogg || Modernizr.audio.mp3)) {
-      window.setTimeout(function () { PACMAN.init(el, "./"); }, 0);
-      document.getElementById("music").play();
-    } else {
-      el.innerHTML = "Sorry, needs a decent browser<br /><small>" +
-        "(firefox 3.6+, Chrome 4+, Opera 10+ and Safari 4+)</small>";
-    }
-  </script>
-</body>
+      <!-- ===== SEKTION: Spelen =====
+           Rutorna nedan byggs automatiskt av skoj.js utifrån filen spel.txt.
+           Vill du lägga till ett spel: skapa mappen skoj/SPELNAMN/ med en
+           index.html (och gärna en preview.jpg) och skriv SPELNAMN på en
+           ny rad i spel.txt. -->
+      <section class="section">
+        <div class="wrap">
+          <div id="spel-lista" class="tiles spel-rutnat">
+            <p class="muted">Laddar spel …</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- ===== SIDFOT =====
+         Hämtas från delar/sidfot.html – ändra den där, inte här. -->
+    <footer class="site-footer" data-include="delar/sidfot.html"></footer>
+
+    <!-- Skript: laddar sidhuvud/sidfot, mobilmeny och animationer -->
+    <script src="../script.js"></script>
+    <!-- Skript: bygger spelrutorna utifrån spel.txt -->
+    <script src="skoj.js"></script>
+  </body>
 </html>

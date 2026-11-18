@@ -45,3 +45,19 @@ styrelsebilder/ÅR/ordning.txt
 4. Ladda upp – det nya året dyker upp överst på styrelsesidan av sig självt.
 
 Saknas en bild visas personens initialer i stället.
+
+## Skoj – lägg till ett nytt spel
+Skoj-sidan läser filen `skoj/spel.txt` och bygger en ruta per spel automatiskt. Strukturen är:
+
+```
+skoj/SPELNAMN/index.html      (själva spelet)
+skoj/SPELNAMN/preview.jpg     (förstabild, valfri)
+skoj/spel.txt                 (en rad per spel: mappens namn)
+```
+
+1. Skapa en mapp med spelets namn, t.ex. `skoj/mitt-spel/`, och lägg spelets `index.html` där.
+2. Lägg gärna en förstabild `preview.jpg` i samma mapp – storlek **1200×675 px** (16:9) passar rutorna. Saknas bilden visas spelets namn i rutan i stället.
+3. Öppna `skoj/spel.txt` och skriv mappens namn på en ny rad, t.ex. `mitt-spel`.
+4. Ladda upp – spelet dyker upp på skoj-sidan av sig självt.
+
+Mappnamnet blir spelets visningsnamn: `mitt-spel` visas som "Mitt spel". Rader som börjar med `#` i spel.txt är kommentarer. Mappen `exempelspel/` är ett färdigt exempel som går att ta bort.
